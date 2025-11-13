@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "name": "jiangwenziqian",
+            "name": "SideStore",
             "address": "https://zi-qian-fu-wu-qi.onrender.com"
         }
     ]
